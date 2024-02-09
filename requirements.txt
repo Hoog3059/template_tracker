@@ -1,0 +1,4 @@
+python-opencv
+matplotlib
+numpy
+tqdm
